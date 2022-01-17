@@ -1,8 +1,7 @@
 ### Olá 👋
 
 
-- Atualmente estou trabalhando com full stack
-- Estou estudando Java e Sprint Boot
+- Atualmente estou trabalhando com full stack (PHP - Laravel)
 
 
 
