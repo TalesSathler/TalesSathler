@@ -1,7 +1,7 @@
-### Olá 👋
+### Hello 👋
 
 
-- Atualmente estou trabalhando com full stack (PHP - Laravel)
+- I'm working as full stack developer (PHP - Laravel)
 
 
 
