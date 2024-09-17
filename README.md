@@ -1,7 +1,7 @@
 ### Hello
 
 
-- I'm working as full stack developer (PHP - Laravel)
+- I'm working as web developer (PHP - Laravel - Angular)
 
 
-Full Stack Developer | PHP | Laravel | JavaScript | VueJS | Java | Spring Boot
+Full Stack Developer | PHP | Laravel | JavaScript | VueJS | AngularJS | Java | Spring Boot
