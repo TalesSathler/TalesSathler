@@ -20,7 +20,7 @@
 
 # About Me
 
-I am a Senior Software Engineer based in Brazil,  with 10+ years of experience building scalable enterprise systems, distributed applications, and AI-powered solutions.
+I am a Senior Software Engineer based in Brazil, with 10+ years of experience building scalable enterprise systems, distributed applications, and AI-powered solutions.
 
 Strong expertise in backend engineering using Java/Spring Boot and PHP/Laravel, with a solid background in software architecture, performance optimization, and technical modernization.
 
@@ -42,6 +42,7 @@ Focused on:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Zend Framework](https://img.shields.io/badge/Zend_Framework-68B604?style=for-the-badge&logo=zend&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -50,6 +51,7 @@ Focused on:
 ## Frontend Development
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -59,7 +61,7 @@ Focused on:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&omegaColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
@@ -133,6 +135,17 @@ Technical leadership and development of large-scale academic and tax management 
 ### May 2016 - May 2017
 
 Development and maintenance of academic systems serving over 10,000 students across multiple cities.
+
+---
+
+## Junior Full Stack Developer & Intern — Versatec
+### Sept 2015 - May 2016
+
+Full-stack development and maintenance of web platforms and core systems.
+
+### Key Contributions
+- Developed web applications across the education, healthcare, and tax management sectors.
+- Built and optimized institutional websites and administrative software solutions.
 
 ---
 
